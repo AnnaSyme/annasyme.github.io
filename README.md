@@ -1,3 +1,3 @@
 # annasyme.github.io
 
-page deploys at [www.annasyme.com](www.annasyme.com)
+page deploys at [https://www.annasyme.com/](https://www.annasyme.com/)

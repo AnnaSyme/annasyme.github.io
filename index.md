@@ -10,6 +10,9 @@
   * List of papers:[https://orcid.org/0000-0002-9906-0673](https://orcid.org/0000-0002-9906-0673)
   * These are also at Google Scholar but I'm trying to de-google because of the oligarchy/fascism at HQ.
 
+## Workflows
+  * Workflowhub: [https://workflowhub.eu/people/200/items#workflows](https://workflowhub.eu/people/200/items#workflows)
+
 ## Training
   * Galaxy project hall of fame: [https://training.galaxyproject.org/training-material/hall-of-fame/annasyme/](https://training.galaxyproject.org/training-material/hall-of-fame/annasyme/)
 

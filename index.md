@@ -17,4 +17,5 @@
 ## Training
   * Galaxy project hall of fame: [https://training.galaxyproject.org/training-material/hall-of-fame/annasyme/](https://training.galaxyproject.org/training-material/hall-of-fame/annasyme/)
   * 2024 Fungi workshop [10.5281/zenodo.14498676](10.5281/zenodo.14498676)
+  * Assorted webinars and training in [https://www.youtube.com/@AustralianBioCommonsChannel](https://www.youtube.com/@AustralianBioCommonsChannel)
 

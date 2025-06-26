@@ -11,6 +11,7 @@
   * These are also at Google Scholar but I'm trying to de-google because of the oligarchy/fascism at HQ.
 
 ## Workflows
+  * Public Galaxy Australia workflows: click on the downwards arrow at the right of the search bar, Filter by owner: anna [https://usegalaxy.org.au/workflows/list_published](https://usegalaxy.org.au/workflows/list_published)
   * Workflowhub: [https://workflowhub.eu/people/200/items#workflows](https://workflowhub.eu/people/200/items#workflows)
 
 ## Training

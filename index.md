@@ -2,7 +2,7 @@
 
   * Senior Bioinformatician, The University of Melbourne/Australian Biocommons
   * Science Lead, Galaxy Australia
-  * Most of my work is with Galaxy Australia - a webpage (connected to computing resources) where people can analyse data.
+  * Most of my recent work is with Galaxy Australia - a webpage (connected to computing resources) where people can analyse data.
 
 <p>
 <a href="#peer-reviewed-publications" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Peer-reviewed publications</a>

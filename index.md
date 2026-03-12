@@ -208,7 +208,7 @@ Selected workflows; owner/creator AE Syme
 
 ## Theses
 
-- **Syme AE**. (2007). A Systematic Revision of the Cylindroleberididae (Crustacea: Ostracoda: Myodocopa). PhD thesis, The University of Melbourne. [library link](https://repository.unimelb.edu.au/10187/2025](https://minerva-access.unimelb.edu.au/items/c2d1a62c-1c48-58f5-914b-21d2065f452b)
+- **Syme AE**. (2007). A Systematic Revision of the Cylindroleberididae (Crustacea: Ostracoda: Myodocopa). PhD thesis, The University of Melbourne. [minerva-access.unimelb.edu.au/items/c2d1a62c-1c48-58f5-914b-21d2065f452b](https://minerva-access.unimelb.edu.au/items/c2d1a62c-1c48-58f5-914b-21d2065f452b)
 - **Syme AE**. (1998). Food Limitation and Daily Ration of Post-settlement King George Whiting (Sillaginodes punctatus) in Port Phillip Bay. BSc(Hons) thesis, The University of Melbourne.
 
 ## Community engagement

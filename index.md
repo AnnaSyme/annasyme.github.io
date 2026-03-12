@@ -4,8 +4,6 @@
   * Science Lead, Galaxy Australia
   * Most of my work is with Galaxy Australia - a webpage (connected to computing resources) where people can analyse data. 
 
-[webpage updating]
-
 # Publications, presentations, training, workflows
 
 ## Peer-reviewed publications

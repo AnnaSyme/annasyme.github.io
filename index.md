@@ -100,7 +100,7 @@
 - **Syme AE**, Stefani F. (2012). Phylogenetic methods using BEAST, R and Geneious. Presentation and workshop. Melbourne Systematics Forum, May 2012.
 - **Syme AE**, Udovicic F. (2011). Investigating rbcL gene duplication in grasses. Talk (presenter). Session chair: Barcoding Grasses. Fourth International Barcode of Life Conference, Adelaide, 2011.
 - **Syme AE**, Udovicic F. (2011). A multi-gene study of relationships within the Australian grass genus Austrostipa. Talk (presenter). XVIII International Botanical Congress, Melbourne, 2011. 
-- - Udovicic F, **Syme AE**, Murphy D, Stajsic V. (2011). DNA barcodes for stipoid grasses: developing a better tool for biosecurity. Talk (co-author; Udovicic F presenter). XVIII International Botanical Congress, Melbourne, 2011.
+- Udovicic F, **Syme AE**, Murphy D, Stajsic V. (2011). DNA barcodes for stipoid grasses: developing a better tool for biosecurity. Talk (co-author; Udovicic F presenter). XVIII International Botanical Congress, Melbourne, 2011.
 - Cross H, Murphy D, Brown A, Gardner S, **Syme AE**, Jardine D, Cantrill D, Lowe A. (2011). Utilizing grass DNA barcodes to explore Australian ecosystems. Talk (co-author; Cross H presenter). XVIII International Botanical Congress, Melbourne, 2011.
 - **Syme AE**, Oakley TH. (2008). How quickly are eyes lost? A phylogenetic study of deep sea and shallow water cylindroleberidid ostracods. Talk (presenter). Society for Integrative and Comparative Biology (SICB) Annual Conference, San Antonio, Texas, 2008.
 - **Syme AE**. (2005). Towards a phylogeny of the Cylindroleberididae (Crustacea: Ostracoda). Poster (presenter). Sixth International Crustacean Congress, Glasgow, 2005.

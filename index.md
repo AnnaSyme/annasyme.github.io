@@ -1,4 +1,4 @@
-<img src="annabio.jpeg" align="right" width="200" alt="Anna Syme">
+<img src="annabio.jpeg" align="right" width="300" alt="Anna Syme">
 # Anna Syme
 
   * Senior Bioinformatician, The University of Melbourne/Australian Biocommons

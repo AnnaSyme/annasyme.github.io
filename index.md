@@ -1,21 +1,11 @@
 # Anna Syme
 
+  * Senior Bioinformatician, The University of Melbourne/Australian Biocommons
+  * Science Lead, Galaxy Australia
+
 ## What I do
   * This is my webpage, now simplified as of June 2025.
-  * I work at the University of Melbourne, with the Australian BioCommons and Galaxy Australia.
-  * Galaxy Australia is a webpage (connected to computing resources) where people can analyse data. 
-  * Mainly, I try to add improvements to Galaxy Australia so that it's easier to use and more useful for researchers.
+  * Most of my work is with Galaxy Australia - a webpage (connected to computing resources) where people can analyse data. 
 
-## Publications
-  * List of papers:[https://orcid.org/0000-0002-9906-0673](https://orcid.org/0000-0002-9906-0673)
-  * These are also at Google Scholar but I'm trying to de-google because of the oligarchy/fascism at HQ.
 
-## Workflows
-  * Public Galaxy Australia workflows: click on the downwards arrow at the right of the search bar, Filter by owner: anna [https://usegalaxy.org.au/workflows/list_published](https://usegalaxy.org.au/workflows/list_published)
-  * Workflowhub: [https://workflowhub.eu/people/200/items#workflows](https://workflowhub.eu/people/200/items#workflows)
-
-## Training
-  * Galaxy project hall of fame: [https://training.galaxyproject.org/training-material/hall-of-fame/annasyme/](https://training.galaxyproject.org/training-material/hall-of-fame/annasyme/)
-  * 2024 Fungi workshop [10.5281/zenodo.14498676](10.5281/zenodo.14498676)
-  * Assorted webinars and training in [https://www.youtube.com/@AustralianBioCommonsChannel](https://www.youtube.com/@AustralianBioCommonsChannel)
-
+[webpage updating]

@@ -4,7 +4,21 @@
   * Science Lead, Galaxy Australia
   * Most of my work is with Galaxy Australia - a webpage (connected to computing resources) where people can analyse data.
 
-[Peer-reviewed publications](#peer-reviewed-publications) | [Conferences, seminars, workshops](#conferences-seminars-workshops) | [Galaxy Training Network tutorials](#galaxy-training-network-tutorials) | [Galaxy Top Tips](#galaxy-top-tips-youtube-series) | [Zenodo tutorials and datasets](#zenodo-tutorials-and-datasets) | [WorkflowHub workflows](#workflowhub-workflows) | [IWC workflows](#iwc-workflows) | [Galaxy Australia published workflows](#galaxy-australia-published-workflows) | [Professional memberships and reviewing](#professional-memberships-and-reviewing) | [Books](#books) | [Theses](#theses) | [Community engagement](#community-engagement)
+<p>
+<a href="#peer-reviewed-publications" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Peer-reviewed publications</a>
+<a href="#conferences-seminars-workshops" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Conferences, seminars, workshops</a>
+<a href="#galaxy-training-network-tutorials" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Galaxy Training Network tutorials</a>
+<a href="#galaxy-top-tips-youtube-series" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Galaxy Top Tips</a>
+<a href="#zenodo-tutorials-and-datasets" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Zenodo tutorials and datasets</a>
+<a href="#workflowhub-workflows" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">WorkflowHub workflows</a>
+<a href="#iwc-workflows" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">IWC workflows</a>
+<a href="#galaxy-australia-published-workflows" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Galaxy Australia published workflows</a>
+<a href="#professional-memberships-and-reviewing" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Professional memberships and reviewing</a>
+<a href="#books" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Books</a>
+<a href="#theses" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Theses</a>
+<a href="#community-engagement" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Community engagement</a>
+</p>
+
 
 ## Peer-reviewed publications
 

@@ -2,9 +2,9 @@
 
   * Senior Bioinformatician, The University of Melbourne/Australian Biocommons
   * Science Lead, Galaxy Australia
-  * Most of my work is with Galaxy Australia - a webpage (connected to computing resources) where people can analyse data. 
+  * Most of my work is with Galaxy Australia - a webpage (connected to computing resources) where people can analyse data.
 
-# Publications, presentations, training, workflows
+[Peer-reviewed publications](#peer-reviewed-publications) | [Conferences, seminars, workshops](#conferences-seminars-workshops) | [Galaxy Training Network tutorials](#galaxy-training-network-tutorials) | [Galaxy Top Tips](#galaxy-top-tips-youtube-series) | [Zenodo tutorials and datasets](#zenodo-tutorials-and-datasets) | [WorkflowHub workflows](#workflowhub-workflows) | [IWC workflows](#iwc-workflows) | [Galaxy Australia published workflows](#galaxy-australia-published-workflows) | [Professional memberships and reviewing](#professional-memberships-and-reviewing) | [Books](#books) | [Theses](#theses) | [Community engagement](#community-engagement)
 
 ## Peer-reviewed publications
 
@@ -29,8 +29,8 @@
 - Jenkins GP, **Syme AE**, Macreadie PI. (2011). Feeding ecology of King George whiting Sillaginodes punctatus recruits in seagrass and unvegetated habitats. Journal of Fish Biology 78: 1561–1573. [doi:10.1111/j.1095-8649.2011.02978.x](https://doi.org/10.1111/j.1095-8649.2011.02978.x)
 - Rivera AS, et al. [incl. **Syme AE**]. (2010). Gene duplication and the origins of morphological complexity in pancrustacean eyes, a genomic approach. BMC Evolutionary Biology 10: 123. [doi:10.1186/1471-2148-10-123](https://doi.org/10.1186/1471-2148-10-123)
 - **Syme AE**, Poore GCB. (2008). A supplementary description of Cypridina mariae, type species of Cylindroleberis, and rediagnosis of the genus (Ostracoda: Myodocopa: Cylindroleberididae). PLoS ONE 3(4): e1960. [doi:10.1371/journal.pone.0001960](https://doi.org/10.1371/journal.pone.0001960)
-- Lum KE, **Syme AE**, Schwab AK, Oakley TH. (2008). Euphilomedes chupacabra (Ostracoda: Myodocopida: Philomedidae), a new demersal marine species from coastal Puerto Rico with male-biased vespertine swimming activity. Zootaxa 1684: 35–57.
-- **Syme AE**, Poore GCB. (2006). Three new species of the Cylindroleberididae from coastal Australian waters (Crustacea: Ostracoda). Zootaxa 1305: 51–67.
+- Lum KE, **Syme AE**, Schwab AK, Oakley TH. (2008). Euphilomedes chupacabra (Ostracoda: Myodocopida: Philomedidae), a new demersal marine species from coastal Puerto Rico with male-biased vespertine swimming activity. Zootaxa 1684: 35–57. [doi:10.11646/zootaxa.1684.1.2](https://doi.org/10.11646/zootaxa.1684.1.2)
+- **Syme AE**, Poore GCB. (2006). Three new species of the Cylindroleberididae from coastal Australian waters (Crustacea: Ostracoda). Zootaxa 1305: 51–67. [doi:10.11646/zootaxa.1305.1.5](https://doi.org/10.11646/zootaxa.1305.1.5)
 - **Syme AE**, Poore GCB. (2006). A checklist for species of the Cylindroleberididae (Crustacea: Ostracoda). Museum Victoria Science Reports 9: 1–20. [doi:10.24199/j.mvsr.2006.09](https://doi.org/10.24199/j.mvsr.2006.09)
 
 ## Conferences, seminars, workshops
@@ -39,17 +39,17 @@
 - **Syme AE**. (2025). Co-technical lead for Galaxy Australia at the Singapore Biology League (SBL 2025): approximately 500 student teams used Galaxy Australia for a major competition practical, 12 July 2025. Singapore Biology League, Singapore, July 2025. [sgbioleague.org](https://sgbioleague.org)
 - **Syme AE**. (2025). The Power of Workflows in Galaxy Australia. Talk with live demonstration. Australian BioCommons Genomics Community Meeting, March 2025.
 - **Syme AE**. (2024). Galaxy Australia: genome assembly workflows. Demonstration. Fungi Bioinformatics Workshop, Australian BioCommons / Galaxy Australia, 2024.
-- Price G, [Galaxy Australia team incl. **Syme AE**], et al. (2024). Talk (Price G presenter). State of Galaxy Australia. Galaxy Community Conference (GCC2024), Brno, Czech Republic, June 2024. **Syme AE** recognized for IWC (Intergalactic Workflow Commission) contributions to high-quality workflows and for contribution to ELIXIR's 2023 Biohackathon (https://www.biocommons.org.au/blogs/gcc2024).
-- Nelson, TM, et al. [incl. **Syme AE**] (2024). Poster (Nelson T presenter). Establishing genomics infrastructure for Australian researchers. ELIXIR All-Hands Meeting, Uppsala, Sweden, June 2024. https://f1000research.com/posters/13-607
-- Silver L, **Syme AE**, Ward N, Hogg C. (2024). Talk (Silver L presenter). Empowering Bioinformaticians and Conservation Managers: Generating Workflow Solutions in Galaxy. Genetics Society of Australasia Conference, Macquarie University, June 30 – July 3, 2024. https://genetics.org.au/wp-content/uploads/2025/03/GSA24_AbstractBook_Oficial.pdf
+- Price G, [Galaxy Australia team incl. **Syme AE**], et al. (2024). Talk (Price G presenter). State of Galaxy Australia. Galaxy Community Conference (GCC2024), Brno, Czech Republic, June 2024. **Syme AE** recognized for IWC (Intergalactic Workflow Commission) contributions to high-quality workflows and for contribution to ELIXIR's 2023 Biohackathon ([https://www.biocommons.org.au/blogs/gcc2024](https://www.biocommons.org.au/blogs/gcc2024)).
+- Nelson, TM, et al. [incl. **Syme AE**] (2024). Poster (Nelson T presenter). Establishing genomics infrastructure for Australian researchers. ELIXIR All-Hands Meeting, Uppsala, Sweden, June 2024. [https://f1000research.com/posters/13-607](https://f1000research.com/posters/13-607)
+- Silver L, **Syme AE**, Ward N, Hogg C. (2024). Talk (Silver L presenter). Empowering Bioinformaticians and Conservation Managers: Generating Workflow Solutions in Galaxy. Genetics Society of Australasia Conference, Macquarie University, June 30 – July 3, 2024. [https://genetics.org.au/wp-content/uploads/2025/03/GSA24_AbstractBook_Oficial.pdf](https://genetics.org.au/wp-content/uploads/2025/03/GSA24_AbstractBook_Oficial.pdf)
 - Connolly K, et al. [incl. **Syme AE**]. (2023, 2024). Galaxy Australia – making use of national and commercial GPGPU resources. Talk (co-author; Connolly K presenter). eResearch Australasia, Brisbane, October 2023; eResearch Australasia, Melbourne, October–November 2024.
-- **Syme AE** et al. (2024). BPA Functional Fungi bioinformatics workshop. Workshop (co-lead trainer) for 38 researchers. Australian National University, Canberra, November 2024. Developed customised training materials and six template workflows spanning QC through annotation and comparative genomics; delivered eight hands-on Galaxy sessions. All materials, 15 example histories and six workflows published on Zenodo (December 2024; >1,200 downloads). Link: https://zenodo.org/records/14498677 [doi:10.5281/zenodo.14498676](https://doi.org/10.5281/zenodo.14498676)
+- **Syme AE** et al. (2024). BPA Functional Fungi bioinformatics workshop. Workshop (co-lead trainer) for 38 researchers. Australian National University, Canberra, November 2024. Developed customised training materials and six template workflows spanning QC through annotation and comparative genomics; delivered eight hands-on Galaxy sessions. All materials, 15 example histories and six workflows published on Zenodo (December 2024; >1,200 downloads). Link: [https://zenodo.org/records/14498677](https://zenodo.org/records/14498677) [doi:10.5281/zenodo.14498676](https://doi.org/10.5281/zenodo.14498676)
 - Nelson TM, et al. [incl. **Syme AE**] (2024). Establishing genomics infrastructure for the Australian research community. Poster. Galaxy Community Conference (GCC2024), F1000Research 2024, 13(ELIXIR):607. [doi:10.7490/F1000RESEARCH.1119744.1](https://doi.org/10.7490/F1000RESEARCH.1119744.1)
 - **Syme AE**, et al. (2023). Poster. Building a Galaxy Lab for genomics. Galaxy Community Conference (GCC2023), Brisbane, July 2023. Scientific Program Committee member.
 - Brown T, et al. [incl. **Syme AE**]. (2023). Genome annotation workflows for the Tree of Life. BioHackathon Europe, Barcelona, October–November 2023. Led Australian team. Outputs: preprint [doi:10.37044/osf.io/vvadp](https://doi.org/10.37044/osf.io/vvadp)
 - **Syme AE**, Bassetti M, Mok W, Hyde C, Ward N, Price G. (2023). Making bioinformatics more user-friendly with custom interfaces. Talk (Price G, presenter). International Conference on Bioinformatics (InCoB), 2023.
 - **Syme AE**. (2023). Melbourne Bioinformatics workshops (mid-2023): Introduction to Galaxy and Galaxy Workflows; Introduction to Galaxy and Quality Control. Workshops (presenter). Melbourne Bioinformatics, University of Melbourne, 2023.
-- Price G, **Syme AE**. (2022). Bioinformatics Training: Galaxy Global Platform for the Analysis of SARS-CoV-2 Data and Variants. Training session. 53rd Meeting of the Asia Pacific Advanced Network (APAN53), Bangladesh (online/hybrid), 7 March 2022. Coordinated by eResearch Network for South East Asia (eRSEA). apan53.apan.net
+- Price G, **Syme AE**. (2022). Bioinformatics Training: Galaxy Global Platform for the Analysis of SARS-CoV-2 Data and Variants. Training session. 53rd Meeting of the Asia Pacific Advanced Network (APAN53), Bangladesh (online/hybrid), 7 March 2022. Coordinated by eResearch Network for South East Asia (eRSEA). [apan53.apan.net](https://apan53.apan.net)
 - **Syme AE**, et al. (2021). Driving workforce transition in Australian life science research. Poster. Galaxy Community Conference (GCC2021), July 2021 (online). Scientific Program Committee member. Workshop (presenter): Genome Assembly – lecture and hands-on tutorial (**Syme AE**, Gladman S).
 - **Syme AE**. (2021). Assembling genomes on Galaxy Australia. Presentation. Australian BioCommons Showcase, Melbourne, 4 November 2021. Panelist: Galaxy Partnerships – Partnering with the international community (Ward N, Price G, Gladman S, **Syme AE**).
 - **Syme AE**. (2021). What can long reads tell us about genome structure? Presentation. Melbourne Bioinformatics Group Meeting, March 2021.
@@ -62,8 +62,8 @@
 - Pope B, et al. [incl. **Syme AE**]. (2020). Bionitio. Talk (co-author; Pope B presenter). Bioinformatics Community Conference (BCC), July 2020 (online).
 - **Syme AE**. (2020). GAP Reference Genomes Pilot. Presentation. BioPlatforms Australia Facilities Meeting, May 2020.
 - Price G, et al. [incl. **Syme AE**]. (2019). Galaxy Australia – inside the national vision of a data commons. Talk (co-author; Price G presenter). Galaxy Community Conference (GCC2019), Freiburg, Germany, 2 July 2019. Session chair: Transcriptomics and Genomics (3 July 2019).
-- Hiltemann S, et al. [incl. **Syme AE**]. (2019). Train the Galaxy Trainer. Workshop (co-presenter). Galaxy Community Conference (GCC2019), Freiburg, Germany, 3 July 2019. Overview: gcc2019.sched.com/event/MDTV
-- Lariviere D, **Syme AE**. (2019). Assembly and annotation of bacterial genomes. Workshop (co-presenter). Galaxy Community Conference (GCC2019), Freiburg, 4 July 2019. Program: tinyurl.com/assemblyworkshop-GCC2019
+- Hiltemann S, et al. [incl. **Syme AE**]. (2019). Train the Galaxy Trainer. Workshop (co-presenter). Galaxy Community Conference (GCC2019), Freiburg, Germany, 3 July 2019. Overview: [gcc2019.sched.com/event/MDTV](https://gcc2019.sched.com/event/MDTV)
+- Lariviere D, **Syme AE**. (2019). Assembly and annotation of bacterial genomes. Workshop (co-presenter). Galaxy Community Conference (GCC2019), Freiburg, 4 July 2019. Program: [tinyurl.com/assemblyworkshop-GCC2019](https://tinyurl.com/assemblyworkshop-GCC2019)
 - Session co-chair: Plant genomics. Australasian Genomic Technologies Association (AGTA) Conference, Melbourne, 8 October 2019.
 - Pope B, **Syme AE**, Cameron D. (2018). Best practices in bioinformatics software development. Workshop (co-presenter). ABACBS Conference, Melbourne, 30 November 2018.
 - Price G, et al. [incl. **Syme AE**]. (2018). Enabling Australian Genomics research through enhancements to the Genomics Virtual Lab. Talk (co-author; Price G presenter). eResearch Australasia Conference, Melbourne, October 2018.
@@ -82,105 +82,103 @@
 - **Syme AE**. (2016). Complete genomes from long and short reads. Melbourne Bioinformatics, October 2016.
 - **Syme AE**, Seemann T, Gladman S, Bulach D. (2016). Complete genomes: the long and the short of it. Poster (presenter). ABACBS Annual Conference, Brisbane, November 2016. Published: F1000Research 5: 2589. [doi:10.7490/f1000research.1113338.1](https://doi.org/10.7490/f1000research.1113338.1)
 - **Syme AE**, Seemann T, Gladman S, Bulach D, et al. (2016). RDS Omics Training Material – antibiotic resistant pathogens. Project update (presenter). RDS/BPA Omics Consortium Meeting, Melbourne, November 2016.
-- Gladman S, **Syme AE**. (2016). A next-generation sequencing workshop: assembly, annotation, variant calling. Workshop (co-presenter). UWA Microbial Genomics Workshop, Perth, November 2016. Event: combine.org.au
+- Gladman S, **Syme AE**. (2016). A next-generation sequencing workshop: assembly, annotation, variant calling. Workshop (co-presenter). UWA Microbial Genomics Workshop, Perth, November 2016. Event: [combine.org.au](https://combine.org.au)
 - **Syme AE**, Stefani F. (2012). Phylogenetic methods using BEAST, R and Geneious. Presentation and workshop. Melbourne Systematics Forum, May 2012.
 - **Syme AE**, Udovicic F. (2011). Investigating rbcL gene duplication in grasses. Talk (presenter). Session chair: Barcoding Grasses. Fourth International Barcode of Life Conference, Adelaide, 2011.
 - **Syme AE**, Udovicic F. (2011). A multi-gene study of relationships within the Australian grass genus Austrostipa. Talk (presenter). XVIII International Botanical Congress, Melbourne, 2011. Also: co-author on two additional talks at the same congress.
 - **Syme AE**, Oakley TH. (2008). How quickly are eyes lost? A phylogenetic study of deep sea and shallow water cylindroleberidid ostracods. Talk (presenter). Society for Integrative and Comparative Biology (SICB) Annual Conference, San Antonio, Texas, 2008.
 - **Syme AE**. (2005). Towards a phylogeny of the Cylindroleberididae (Crustacea: Ostracoda). Poster (presenter). Sixth International Crustacean Congress, Glasgow, 2005.
 
-## Training materials
+## Galaxy Training Network tutorials
 
-### Galaxy Training Network tutorials
+- Anna Syme, Nicola Soranzo, ***A short introduction to Galaxy*** (Galaxy Training Materials). [https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-short/tutorial.html](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-short/tutorial.html) [Total pageviews: 89,100; 2025 pageviews: 19,500]
+- Anna Syme, ***Chloroplast genome assembly*** (Galaxy Training Materials). [https://training.galaxyproject.org/training-material/topics/assembly/tutorials/chloroplast-assembly/tutorial.html](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/chloroplast-assembly/tutorial.html) [Total pageviews: 12,900; 2025 pageviews: 2,300]
+- Anna Syme, ***Large genome assembly and polishing*** (Galaxy Training Materials). [https://training.galaxyproject.org/training-material/topics/assembly/tutorials/largegenome/tutorial.html](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/largegenome/tutorial.html) [Total pageviews: 10,300; 2025 pageviews: 3,800]
+- Delphine Lariviere et al. [incl Anna Syme], ***Vertebrate genome assembly using HiFi, Bionano and Hi-C data - Step by Step*** (Galaxy Training Materials). [https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/tutorial.html](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/tutorial.html) [Total pageviews: 25,500; 2025 pageviews: 5,400]
+- Anna Syme, Torsten Seemann, Simon Gladman, ***Genome annotation with Prokka*** (Galaxy Training Materials). [https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/annotation-with-prokka/tutorial.html](https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/annotation-with-prokka/tutorial.html) [Total pageviews: 32,300; 2025 pageviews: 3,100]
+- Anna Syme, Simon Gladman, Torsten Seemann, ***Microbial Variant Calling*** (Galaxy Training Materials). [https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/microbial-variants/tutorial.html](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/microbial-variants/tutorial.html) [Total pageviews: 24,800; 2025 pageviews: 3,000]
+- GTN contributor profile: [training.galaxyproject.org/hall-of-fame/annasyme/](https://training.galaxyproject.org/hall-of-fame/annasyme/)
 
-- Anna Syme, Nicola Soranzo, ***A short introduction to Galaxy*** (Galaxy Training Materials). https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-short/tutorial.html [Total pageviews: 89,100; 2025 pageviews: 19,500]
-- Anna Syme, ***Chloroplast genome assembly*** (Galaxy Training Materials). https://training.galaxyproject.org/training-material/topics/assembly/tutorials/chloroplast-assembly/tutorial.html [Total pageviews: 12,900; 2025 pageviews: 2,300]
-- Anna Syme, ***Large genome assembly and polishing*** (Galaxy Training Materials). https://training.galaxyproject.org/training-material/topics/assembly/tutorials/largegenome/tutorial.html [Total pageviews: 10,300; 2025 pageviews: 3,800]
-- Delphine Lariviere et al. [incl Anna Syme], ***Vertebrate genome assembly using HiFi, Bionano and Hi-C data - Step by Step*** (Galaxy Training Materials). https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/tutorial.html [Total pageviews: 25,500; 2025 pageviews: 5,400]
-- Anna Syme, Torsten Seemann, Simon Gladman, ***Genome annotation with Prokka*** (Galaxy Training Materials). https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/annotation-with-prokka/tutorial.html [Total pageviews: 32,300; 2025 pageviews: 3,100]
-- Anna Syme, Simon Gladman, Torsten Seemann, ***Microbial Variant Calling*** (Galaxy Training Materials). https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/microbial-variants/tutorial.html [Total pageviews: 24,800; 2025 pageviews: 3,000]
-- GTN contributor profile: training.galaxyproject.org/hall-of-fame/annasyme/
-
-### Galaxy Top Tips (YouTube series)
+## Galaxy Top Tips (YouTube series)
 
 - **Syme AE**. (2024). Saving time when uploading data. Galaxy Top Tips, Australian BioCommons, 2024.
 - **Syme AE**. (2024). Automate your data analyses with workflows. Galaxy Top Tips, Australian BioCommons, 2024.
 
-### Zenodo tutorials and datasets
+## Zenodo tutorials and datasets
 
 - **Syme AE**. (2021). Tutorial: Assemble a large genome using Galaxy. Zenodo. [doi:10.5281/zenodo.5655813](https://doi.org/10.5281/zenodo.5655813) [327 downloads]
 - **Syme AE**. (2020). Tutorial: Assemble and annotate a chloroplast genome. Zenodo. [doi:10.5281/zenodo.3971667](https://doi.org/10.5281/zenodo.3971667) [502 downloads]
 - **Syme AE**. (2020). Chloroplast genome sequencing reads from snow gum [dataset]. Zenodo. [doi:10.5281/zenodo.3600662](https://doi.org/10.5281/zenodo.3600662) [267 downloads]
 - **Syme AE**. (2019). Chloroplast genome sequencing reads from sweet potato [dataset]. Zenodo. [doi:10.5281/zenodo.3567224](https://doi.org/10.5281/zenodo.3567224) [3,686 downloads]
-- Schwessinger B, et al. [incl. **Syme AE**]. (2024). BPA Functional Fungi bioinformatics workshop: training materials, 15 example histories and 6 workflows. Zenodo. https://zenodo.org/records/14498677 [1,218 downloads]
+- Schwessinger B, et al. [incl. **Syme AE**]. (2024). BPA Functional Fungi bioinformatics workshop: training materials, 15 example histories and 6 workflows. Zenodo. [https://zenodo.org/records/14498677](https://zenodo.org/records/14498677) [1,218 downloads]
 
-### WorkflowHub workflows
+## WorkflowHub workflows
 
-Source: workflowhub.eu/people/200/workflows
+Source: [workflowhub.eu/people/200/workflows](https://workflowhub.eu/people/200/workflows)
 
-- Syme A. (2021). Data QC. WorkflowHub. https://doi.org/10.48546/workflowhub.workflow.222.1 [8,167 views; 840 downloads]
-- Syme A. (2021). kmer counting - Meryl. WorkflowHub. https://doi.org/10.48546/workflowhub.workflow.223.1 [9,513 views; 794 downloads]
-- Syme A. (2021). Trim and filter reads - Fastp. WorkflowHub. https://doi.org/10.48546/workflowhub.workflow.224.1 [15,999 views; 784 downloads]
-- Syme A. (2021). Assembly with Flye. WorkflowHub. https://doi.org/10.48546/workflowhub.workflow.225.1 [10,788 views; 859 downloads]
-- Syme A. (2021). Assembly polishing. WorkflowHub. https://doi.org/10.48546/workflowhub.workflow.226.1 [10,394 views; 813 downloads]
-- Syme A. (2021). Racon polish with long reads, x4. WorkflowHub. https://doi.org/10.48546/workflowhub.workflow.227.1 [9,481 views; 840 downloads]
-- Syme A. (2021). Racon polish with Illumina reads, x2. WorkflowHub. https://doi.org/10.48546/workflowhub.workflow.228.1 [8,281 views; 757 downloads]
-- Syme A. (2021). Assess genome quality. WorkflowHub. https://doi.org/10.48546/workflowhub.workflow.229.1 [8,132 views; 768 downloads]
-- Syme A. (2021). Combined workflows for large genome assembly. WorkflowHub. https://doi.org/10.48546/workflowhub.workflow.230.1 [8,411 views; 870 downloads]
-- Syme A. (2022). QC of RADseq reads. WorkflowHub. https://workflowhub.eu/workflows/346 [8,131 views; 675 downloads]
-- Syme A. (2022). Stacks RAD-seq reference-guided workflow. WorkflowHub. https://workflowhub.eu/workflows/347 [9,418 views; 763 downloads]
-- Syme A. (2022). Stacks RAD-seq de novo workflow. WorkflowHub. https://workflowhub.eu/workflows/348 [8,915 views; 694 downloads]
-- Syme A. (2022). Partial de novo workflow: ustacks only. WorkflowHub. https://workflowhub.eu/workflows/349 [7,494 views; 732 downloads]
-- Syme A. (2022). Partial de novo workflow: c-s-g-pops only. WorkflowHub. https://workflowhub.eu/workflows/350 [7,358 views; 718 downloads]
-- Syme A. (2022). Partial ref-guided workflow - bwa mem only. WorkflowHub. https://workflowhub.eu/workflows/351 [7,369 views; 676 downloads]
-- Syme A. (2022). Partial ref-guided workflow - gstacks and pops. WorkflowHub. https://workflowhub.eu/workflows/352 [7,427 views; 695 downloads]
-- Silver L, Syme A. (2024). QC and trimming of RNAseq reads - TSI. WorkflowHub. https://doi.org/10.48546/workflowhub.workflow.876.1 [5,215 views; 649 downloads]
-- Silver L, Syme A. (2024). Find transcripts - TSI. WorkflowHub. https://doi.org/10.48546/workflowhub.workflow.877.1 [5,428 views; 589 downloads]
-- Silver L, Syme A. (2024). Combine transcripts - TSI. WorkflowHub. https://doi.org/10.48546/workflowhub.workflow.878.1 [5,381 views; 615 downloads]
-- Silver L, Syme A. (2024). Extract transcripts - TSI. WorkflowHub. https://doi.org/10.48546/workflowhub.workflow.879.1 [5,260 views; 603 downloads]
-- Silver L, Syme A. (2024). Convert formats - TSI. WorkflowHub. https://doi.org/10.48546/workflowhub.workflow.880.1 [5,464 views; 712 downloads]
-- Silver L. (2024). Fgenesh annotation - TSI. WorkflowHub. https://doi.org/10.48546/workflowhub.workflow.881.5 [8,759 views; 2,284 downloads]
-- Silver L, Syme A. (2024). Repeat masking - TSI. WorkflowHub. https://doi.org/10.48546/workflowhub.workflow.875.3 [7,158 views; 1,500 downloads]
-- Syme A. (2024). Genome assembly workflow for nanopore reads, for TSI. WorkflowHub. https://doi.org/10.48546/workflowhub.workflow.1114.1 [4,376 views; 505 downloads]
-- Farquharson K, Price G, Tang S, Syme A. (2024). Genome-assessment-post-assembly. WorkflowHub. https://doi.org/10.48546/workflowhub.workflow.403.7 [13,323 views; 3,052 downloads]
+- Syme A. (2021). Data QC. WorkflowHub. [https://doi.org/10.48546/workflowhub.workflow.222.1](https://doi.org/10.48546/workflowhub.workflow.222.1) [8,167 views; 840 downloads]
+- Syme A. (2021). kmer counting - Meryl. WorkflowHub. [https://doi.org/10.48546/workflowhub.workflow.223.1](https://doi.org/10.48546/workflowhub.workflow.223.1) [9,513 views; 794 downloads]
+- Syme A. (2021). Trim and filter reads - Fastp. WorkflowHub. [https://doi.org/10.48546/workflowhub.workflow.224.1](https://doi.org/10.48546/workflowhub.workflow.224.1) [15,999 views; 784 downloads]
+- Syme A. (2021). Assembly with Flye. WorkflowHub. [https://doi.org/10.48546/workflowhub.workflow.225.1](https://doi.org/10.48546/workflowhub.workflow.225.1) [10,788 views; 859 downloads]
+- Syme A. (2021). Assembly polishing. WorkflowHub. [https://doi.org/10.48546/workflowhub.workflow.226.1](https://doi.org/10.48546/workflowhub.workflow.226.1) [10,394 views; 813 downloads]
+- Syme A. (2021). Racon polish with long reads, x4. WorkflowHub. [https://doi.org/10.48546/workflowhub.workflow.227.1](https://doi.org/10.48546/workflowhub.workflow.227.1) [9,481 views; 840 downloads]
+- Syme A. (2021). Racon polish with Illumina reads, x2. WorkflowHub. [https://doi.org/10.48546/workflowhub.workflow.228.1](https://doi.org/10.48546/workflowhub.workflow.228.1) [8,281 views; 757 downloads]
+- Syme A. (2021). Assess genome quality. WorkflowHub. [https://doi.org/10.48546/workflowhub.workflow.229.1](https://doi.org/10.48546/workflowhub.workflow.229.1) [8,132 views; 768 downloads]
+- Syme A. (2021). Combined workflows for large genome assembly. WorkflowHub. [https://doi.org/10.48546/workflowhub.workflow.230.1](https://doi.org/10.48546/workflowhub.workflow.230.1) [8,411 views; 870 downloads]
+- Syme A. (2022). QC of RADseq reads. WorkflowHub. [https://workflowhub.eu/workflows/346](https://workflowhub.eu/workflows/346) [8,131 views; 675 downloads]
+- Syme A. (2022). Stacks RAD-seq reference-guided workflow. WorkflowHub. [https://workflowhub.eu/workflows/347](https://workflowhub.eu/workflows/347) [9,418 views; 763 downloads]
+- Syme A. (2022). Stacks RAD-seq de novo workflow. WorkflowHub. [https://workflowhub.eu/workflows/348](https://workflowhub.eu/workflows/348) [8,915 views; 694 downloads]
+- Syme A. (2022). Partial de novo workflow: ustacks only. WorkflowHub. [https://workflowhub.eu/workflows/349](https://workflowhub.eu/workflows/349) [7,494 views; 732 downloads]
+- Syme A. (2022). Partial de novo workflow: c-s-g-pops only. WorkflowHub. [https://workflowhub.eu/workflows/350](https://workflowhub.eu/workflows/350) [7,358 views; 718 downloads]
+- Syme A. (2022). Partial ref-guided workflow - bwa mem only. WorkflowHub. [https://workflowhub.eu/workflows/351](https://workflowhub.eu/workflows/351) [7,369 views; 676 downloads]
+- Syme A. (2022). Partial ref-guided workflow - gstacks and pops. WorkflowHub. [https://workflowhub.eu/workflows/352](https://workflowhub.eu/workflows/352) [7,427 views; 695 downloads]
+- Silver L, Syme A. (2024). QC and trimming of RNAseq reads - TSI. WorkflowHub. [https://doi.org/10.48546/workflowhub.workflow.876.1](https://doi.org/10.48546/workflowhub.workflow.876.1) [5,215 views; 649 downloads]
+- Silver L, Syme A. (2024). Find transcripts - TSI. WorkflowHub. [https://doi.org/10.48546/workflowhub.workflow.877.1](https://doi.org/10.48546/workflowhub.workflow.877.1) [5,428 views; 589 downloads]
+- Silver L, Syme A. (2024). Combine transcripts - TSI. WorkflowHub. [https://doi.org/10.48546/workflowhub.workflow.878.1](https://doi.org/10.48546/workflowhub.workflow.878.1) [5,381 views; 615 downloads]
+- Silver L, Syme A. (2024). Extract transcripts - TSI. WorkflowHub. [https://doi.org/10.48546/workflowhub.workflow.879.1](https://doi.org/10.48546/workflowhub.workflow.879.1) [5,260 views; 603 downloads]
+- Silver L, Syme A. (2024). Convert formats - TSI. WorkflowHub. [https://doi.org/10.48546/workflowhub.workflow.880.1](https://doi.org/10.48546/workflowhub.workflow.880.1) [5,464 views; 712 downloads]
+- Silver L. (2024). Fgenesh annotation - TSI. WorkflowHub. [https://doi.org/10.48546/workflowhub.workflow.881.5](https://doi.org/10.48546/workflowhub.workflow.881.5) [8,759 views; 2,284 downloads]
+- Silver L, Syme A. (2024). Repeat masking - TSI. WorkflowHub. [https://doi.org/10.48546/workflowhub.workflow.875.3](https://doi.org/10.48546/workflowhub.workflow.875.3) [7,158 views; 1,500 downloads]
+- Syme A. (2024). Genome assembly workflow for nanopore reads, for TSI. WorkflowHub. [https://doi.org/10.48546/workflowhub.workflow.1114.1](https://doi.org/10.48546/workflowhub.workflow.1114.1) [4,376 views; 505 downloads]
+- Farquharson K, Price G, Tang S, Syme A. (2024). Genome-assessment-post-assembly. WorkflowHub. [https://doi.org/10.48546/workflowhub.workflow.403.7](https://doi.org/10.48546/workflowhub.workflow.403.7) [13,323 views; 3,052 downloads]
 
-### IWC workflows
+## IWC workflows
 
-- **Syme AE**. (2024). Assembly with Flye. Galaxy workflow, Intergalactic Workflow Commission (IWC). https://workflowhub.eu/workflows/750 [5,950 views; 21,778 downloads]
-- **Syme AE**. (2023). Polish with long reads. Galaxy workflow, Intergalactic Workflow Commission (IWC). https://workflowhub.eu/workflows/563 [6,193 views; 7,656 downloads]
+- **Syme AE**. (2024). Assembly with Flye. Galaxy workflow, Intergalactic Workflow Commission (IWC). [https://workflowhub.eu/workflows/750](https://workflowhub.eu/workflows/750) [5,950 views; 21,778 downloads]
+- **Syme AE**. (2023). Polish with long reads. Galaxy workflow, Intergalactic Workflow Commission (IWC). [https://workflowhub.eu/workflows/563](https://workflowhub.eu/workflows/563) [6,193 views; 7,656 downloads]
 
-### Galaxy Australia published workflows
+## Galaxy Australia published workflows
 
 Selected workflows; owner/creator AE Syme
 
-- Create manifest for fastq files for Qiime2 (2025). https://usegalaxy.org.au/published/workflow?id=2df1d32f78974528
-- QC of llumina data (2025). https://usegalaxy.org.au/published/workflow?id=db0867756cb233b7
-- Combined fungi assembly and annotation workflow - Version 1 (2024). https://usegalaxy.org.au/published/workflow?id=7c99dc849c7b9a6e
-- Conditional workflows simple example - Version 1 (2024). https://usegalaxy.org.au/published/workflow?id=d094d2aa9c6e9c24
-- Create pairwise FASTA list (2024). https://usegalaxy.org.au/published/workflow?id=8ae08ac9e73c8241
-- Demonstration conditional workflow (2024). https://usegalaxy.org.au/published/workflow?id=c622bd03677314aa
-- Examples of optional and restricted inputs - Version 1 (2024). https://usegalaxy.org.au/published/workflow?id=4023bca282ca9315
-- Fungi: Assembly QC, Blast, RagTag - Version 1 (2024). https://usegalaxy.org.au/published/workflow?id=6e6abe1c2e1eb254
-- Fungi: Illumina data QC and assembly - Version 1 (2024). https://usegalaxy.org.au/published/workflow?id=e7eae58e07c2a5ad
-- Fungi: repeat masking, annotation with Helixer, Funannotate, Fgenesh (2024). https://usegalaxy.org.au/published/workflow?id=a9068ea858222e2b
-- Pre-Alphafold workflow to create list of target-candidate pairs - Version 1 (2024). https://usegalaxy.org.au/published/workflow?id=462beb964c99619d
-- Run a tool if more than x reads - Version 1 (2024). https://usegalaxy.org.au/published/workflow?id=bc4e3115586cbe62
-- What is in my sequencing reads? - Version 1 (2024). https://usegalaxy.org.au/published/workflow?id=ed3e48a73b5aaa56
-- Workflow example with workflow report - Version 1 (2024). https://usegalaxy.org.au/published/workflow?id=f547724fb0b2806a
-- Assembly polishing (2021). https://usegalaxy.org.au/published/workflow?id=705658f68ae73930
-- Assembly with Flye (2021). https://usegalaxy.org.au/published/workflow?id=5b32e2f0d390a4ba
-- Assess genome quality (2021). https://usegalaxy.org.au/published/workflow?id=243c67fa4312855e
-- Combined workflows for large genome assembly (2021). https://usegalaxy.org.au/published/workflow?id=983aa4c8630255bc
-- Data QC (2021). https://usegalaxy.org.au/published/workflow?id=3ac73a2f00423326
-- kmer counting - meryl (2021). https://usegalaxy.org.au/published/workflow?id=d7c2d0d49b1a6c86
-- Prepare test data - remove chloroplast reads and subsample to 10% (2021). https://usegalaxy.org.au/published/workflow?id=324c683a8e2fa5b0
-- Racon polish with Illumina reads (R1 only), x2 (2021). https://usegalaxy.org.au/published/workflow?id=1ff6aabb7e3954ac
-- Racon polish with long reads, x4 (2021). https://usegalaxy.org.au/published/workflow?id=45e9910f46a210d8
-- Trim and filter reads - fastp (2021). https://usegalaxy.org.au/published/workflow?id=c5f000229dd93599
+- Create manifest for fastq files for Qiime2 (2025). [https://usegalaxy.org.au/published/workflow?id=2df1d32f78974528](https://usegalaxy.org.au/published/workflow?id=2df1d32f78974528)
+- QC of llumina data (2025). [https://usegalaxy.org.au/published/workflow?id=db0867756cb233b7](https://usegalaxy.org.au/published/workflow?id=db0867756cb233b7)
+- Combined fungi assembly and annotation workflow - Version 1 (2024). [https://usegalaxy.org.au/published/workflow?id=7c99dc849c7b9a6e](https://usegalaxy.org.au/published/workflow?id=7c99dc849c7b9a6e)
+- Conditional workflows simple example - Version 1 (2024). [https://usegalaxy.org.au/published/workflow?id=d094d2aa9c6e9c24](https://usegalaxy.org.au/published/workflow?id=d094d2aa9c6e9c24)
+- Create pairwise FASTA list (2024). [https://usegalaxy.org.au/published/workflow?id=8ae08ac9e73c8241](https://usegalaxy.org.au/published/workflow?id=8ae08ac9e73c8241)
+- Demonstration conditional workflow (2024). [https://usegalaxy.org.au/published/workflow?id=c622bd03677314aa](https://usegalaxy.org.au/published/workflow?id=c622bd03677314aa)
+- Examples of optional and restricted inputs - Version 1 (2024). [https://usegalaxy.org.au/published/workflow?id=4023bca282ca9315](https://usegalaxy.org.au/published/workflow?id=4023bca282ca9315)
+- Fungi: Assembly QC, Blast, RagTag - Version 1 (2024). [https://usegalaxy.org.au/published/workflow?id=6e6abe1c2e1eb254](https://usegalaxy.org.au/published/workflow?id=6e6abe1c2e1eb254)
+- Fungi: Illumina data QC and assembly - Version 1 (2024). [https://usegalaxy.org.au/published/workflow?id=e7eae58e07c2a5ad](https://usegalaxy.org.au/published/workflow?id=e7eae58e07c2a5ad)
+- Fungi: repeat masking, annotation with Helixer, Funannotate, Fgenesh (2024). [https://usegalaxy.org.au/published/workflow?id=a9068ea858222e2b](https://usegalaxy.org.au/published/workflow?id=a9068ea858222e2b)
+- Pre-Alphafold workflow to create list of target-candidate pairs - Version 1 (2024). [https://usegalaxy.org.au/published/workflow?id=462beb964c99619d](https://usegalaxy.org.au/published/workflow?id=462beb964c99619d)
+- Run a tool if more than x reads - Version 1 (2024). [https://usegalaxy.org.au/published/workflow?id=bc4e3115586cbe62](https://usegalaxy.org.au/published/workflow?id=bc4e3115586cbe62)
+- What is in my sequencing reads? - Version 1 (2024). [https://usegalaxy.org.au/published/workflow?id=ed3e48a73b5aaa56](https://usegalaxy.org.au/published/workflow?id=ed3e48a73b5aaa56)
+- Workflow example with workflow report - Version 1 (2024). [https://usegalaxy.org.au/published/workflow?id=f547724fb0b2806a](https://usegalaxy.org.au/published/workflow?id=f547724fb0b2806a)
+- Assembly polishing (2021). [https://usegalaxy.org.au/published/workflow?id=705658f68ae73930](https://usegalaxy.org.au/published/workflow?id=705658f68ae73930)
+- Assembly with Flye (2021). [https://usegalaxy.org.au/published/workflow?id=5b32e2f0d390a4ba](https://usegalaxy.org.au/published/workflow?id=5b32e2f0d390a4ba)
+- Assess genome quality (2021). [https://usegalaxy.org.au/published/workflow?id=243c67fa4312855e](https://usegalaxy.org.au/published/workflow?id=243c67fa4312855e)
+- Combined workflows for large genome assembly (2021). [https://usegalaxy.org.au/published/workflow?id=983aa4c8630255bc](https://usegalaxy.org.au/published/workflow?id=983aa4c8630255bc)
+- Data QC (2021). [https://usegalaxy.org.au/published/workflow?id=3ac73a2f00423326](https://usegalaxy.org.au/published/workflow?id=3ac73a2f00423326)
+- kmer counting - meryl (2021). [https://usegalaxy.org.au/published/workflow?id=d7c2d0d49b1a6c86](https://usegalaxy.org.au/published/workflow?id=d7c2d0d49b1a6c86)
+- Prepare test data - remove chloroplast reads and subsample to 10% (2021). [https://usegalaxy.org.au/published/workflow?id=324c683a8e2fa5b0](https://usegalaxy.org.au/published/workflow?id=324c683a8e2fa5b0)
+- Racon polish with Illumina reads (R1 only), x2 (2021). [https://usegalaxy.org.au/published/workflow?id=1ff6aabb7e3954ac](https://usegalaxy.org.au/published/workflow?id=1ff6aabb7e3954ac)
+- Racon polish with long reads, x4 (2021). [https://usegalaxy.org.au/published/workflow?id=45e9910f46a210d8](https://usegalaxy.org.au/published/workflow?id=45e9910f46a210d8)
+- Trim and filter reads - fastp (2021). [https://usegalaxy.org.au/published/workflow?id=c5f000229dd93599](https://usegalaxy.org.au/published/workflow?id=c5f000229dd93599)
 
 ## Professional memberships and reviewing
 
-- Editorial Board member, Gigabyte (since 2020): gigabytejournal.com/editorial-board
+- Editorial Board member, Gigabyte (since 2020): [gigabytejournal.com/editorial-board](https://gigabytejournal.com/editorial-board)
 - Australian Bioinformatics and Computational Biology Society (ABACBS): Education Sub-Committee member.
 - Galaxy Outreach and Training Committee member. Galaxy Community Conference Scientific Committee member (2020, 2021, 2023).
 - Peer reviewer for: GigaByte; GigaScience; Journal of Crustacean Biology; Proceedings of the Biological Society of Washington; Zootaxa; Australian Biological Resources Study; Deep Sea Research.
@@ -193,11 +191,10 @@ Selected workflows; owner/creator AE Syme
 
 ## Theses
 
-- **Syme AE**. (2007). A Systematic Revision of the Cylindroleberididae (Crustacea: Ostracoda: Myodocopa). PhD thesis, The University of Melbourne. repository.unimelb.edu.au/10187/2025
+- **Syme AE**. (2007). A Systematic Revision of the Cylindroleberididae (Crustacea: Ostracoda: Myodocopa). PhD thesis, The University of Melbourne. [repository.unimelb.edu.au/10187/2025](https://repository.unimelb.edu.au/10187/2025)
 - **Syme AE**. (1998). Food Limitation and Daily Ration of Post-settlement King George Whiting (Sillaginodes punctatus) in Port Phillip Bay. BSc(Hons) thesis, The University of Melbourne.
 
 ## Community engagement
 
 - Collaborator, evolutionary biologist/bioinformatician consultant: "Gene Tree Project - the sound of art and science" (2016 – 2020). Supported by: Australia Council for the Arts, Australia Arts Music Fund, Creative Victoria, City of Melbourne/ Creative Spaces, Culture_Lab14. The project is a dynamic collaboration between composer and musician Elissa Goodrich, dramaturge Nadja Kostich and evolutionary biologist Dr Anna Syme.
 - Blindside Festival - On The Verge: composer Elissa Goodrich + biologist Dr Anna Syme in conversation with writer/broadcaster Melissa Cranenburgh. The Kelvin Club, August 31, 2016. // Interview: Frankie magazine, Jan/Feb 2017 issue
-

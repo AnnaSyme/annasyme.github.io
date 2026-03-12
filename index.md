@@ -215,3 +215,6 @@ Selected workflows; owner/creator AE Syme
 
 - Collaborator, evolutionary biologist/bioinformatician consultant: "Gene Tree Project - the sound of art and science; E Goodrich" (2016 – 2020). Supported by: Australia Council for the Arts, Australia Arts Music Fund, Creative Victoria, City of Melbourne/ Creative Spaces, Culture_Lab14. The project is a dynamic collaboration between composer and musician Elissa Goodrich, dramaturge Nadja Kostich and evolutionary biologist Dr Anna Syme.
 - Blindside Festival - On The Verge: composer Elissa Goodrich + biologist Dr Anna Syme in conversation with writer/broadcaster Melissa Cranenburgh. The Kelvin Club, August 31, 2016. // Interview: Frankie magazine, Jan/Feb 2017 issue
+
+<script data-goatcounter="https://annasyme.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

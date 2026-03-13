@@ -50,7 +50,7 @@
 ## Conferences, seminars, workshops
 
 - **Syme AE**. (2023, 2024, 2025). Asia-Pacific regional lead for the Galaxy Training Academy (GTA). Galaxy Training Academy, annual international event. The 2024 event attracted over 3,000 participants; the 2025 event reached a record 3,574 from 122 countries.
-- **Syme AE**. (2025). Co-technical lead for Galaxy Australia at the Singapore Biology League (SBL 2025): approximately 500 student teams used Galaxy Australia for a major competition practical, 12 July 2025. Singapore Biology League, Singapore, July 2025. [sgbioleague.org](https://sgbioleague.org)
+- **Syme AE**. (2025). Co-technical lead for Galaxy Australia at the Singapore Biology League (SBL 2025): approximately 500 student teams used Galaxy Australia for a major competition practical, 12 July 2025. (online) July 2025. [sgbioleague.org](https://sgbioleague.org)
 - **Syme AE**. (2025). The Power of Workflows in Galaxy Australia. Talk with live demonstration. Australian BioCommons Genomics Community Meeting, March 2025.
 - **Syme AE**. (2024). Galaxy Australia: genome assembly workflows. Demonstration. Fungi Bioinformatics Workshop, Australian BioCommons / Galaxy Australia, 2024.
 - Price G, [Galaxy Australia team incl. **Syme AE**], et al. (2024). Talk (Price G presenter). State of Galaxy Australia. Galaxy Community Conference (GCC2024), Brno, Czech Republic, June 2024. **Syme AE** recognized for IWC (Intergalactic Workflow Commission) contributions to high-quality workflows and for contribution to ELIXIR's 2023 Biohackathon ([https://www.biocommons.org.au/blogs/gcc2024](https://www.biocommons.org.au/blogs/gcc2024)).

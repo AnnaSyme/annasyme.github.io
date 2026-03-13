@@ -17,6 +17,7 @@
 <a href="#books" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Books</a>
 <a href="#theses" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Theses</a>
 <a href="#community-engagement" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Community engagement</a>
+<a href="#" id="contact-btn" onclick="(function(){var u='anna_e_syme';var d='fastmail.com';window.location.href='mailto:'+u+'@'+d;return false;})()" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Contact me</a> 
 </p>
 
 

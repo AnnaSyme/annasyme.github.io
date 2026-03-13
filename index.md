@@ -49,6 +49,7 @@
 
 ## Conferences, seminars, workshops
 
+- Nelson, TM, et al. [incl. **Syme AE**] (2026). Poster (Nelson T presenter). Genomics infrastructure to support Australian researchers. 47th Lorne Genome Conference, Australia.
 - **Syme AE**. (2023, 2024, 2025). Asia-Pacific regional lead for the Galaxy Training Academy (GTA). Galaxy Training Academy, annual international event. The 2024 event attracted over 3,000 participants; the 2025 event reached a record 3,574 from 122 countries.
 - **Syme AE**. (2025). Co-technical lead for Galaxy Australia at the Singapore Biology League (SBL 2025): approximately 500 student teams used Galaxy Australia for a major competition practical, 12 July 2025. (online) July 2025. [sgbioleague.org](https://sgbioleague.org)
 - **Syme AE**. (2025). The Power of Workflows in Galaxy Australia. Talk with live demonstration. Australian BioCommons Genomics Community Meeting, March 2025.

@@ -78,7 +78,7 @@
 - **Syme AE**. (2020). GAP Reference Genomes Pilot. Presentation. BioPlatforms Australia Facilities Meeting, May 2020.
 - Price G, et al. [incl. **Syme AE**]. (2019). Galaxy Australia – inside the national vision of a data commons. Talk (co-author; Price G presenter). Galaxy Community Conference (GCC2019), Freiburg, Germany, 2 July 2019. Session chair: Transcriptomics and Genomics (3 July 2019).
 - Hiltemann S, et al. [incl. **Syme AE**]. (2019). Train the Galaxy Trainer. Workshop (co-presenter). Galaxy Community Conference (GCC2019), Freiburg, Germany, 3 July 2019. Overview: [gcc2019.sched.com/event/MDTV](https://gcc2019.sched.com/event/MDTV)
-- Lariviere D, **Syme AE**. (2019). Assembly and annotation of bacterial genomes. Workshop (co-presenter). Galaxy Community Conference (GCC2019), Freiburg, 4 July 2019. Program: [tinyurl.com/assemblyworkshop-GCC2019](https://tinyurl.com/assemblyworkshop-GCC2019)
+- Lariviere D, **Syme AE**. (2019). Assembly and annotation of bacterial genomes. Workshop (co-presenter). Galaxy Community Conference (GCC2019), Freiburg, 4 July 2019. 
 - Session co-chair: Plant genomics. Australasian Genomic Technologies Association (AGTA) Conference, Melbourne, 8 October 2019.
 - Pope B, **Syme AE**, Cameron D. (2018). Best practices in bioinformatics software development. Workshop (co-presenter). ABACBS Conference, Melbourne, 30 November 2018.
 - Price G, et al. [incl. **Syme AE**]. (2018). Enabling Australian Genomics research through enhancements to the Genomics Virtual Lab. Talk (co-author; Price G presenter). eResearch Australasia Conference, Melbourne, October 2018.

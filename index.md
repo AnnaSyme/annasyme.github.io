@@ -31,7 +31,7 @@ document.getElementById('contact-btn').addEventListener('click', function(e) {
 </script>
 
 
-## Peer-reviewed publications
+## Publications
 
 - Simpson L, et al. [incl. **Syme AE**]. (2025). The Genomics for Australian Plants (GAP) framework initiative—developing genomic resources for understanding the evolution and conservation of the Australian flora. Australian Systematic Botany 38(3). [doi:10.1071/SB24022](https://doi.org/10.1071/SB24022)
 - Hyde C, **Syme AE**, Batut B, Zierep PF, Mok W, Bacon WA, Price GR. (2025). Community-curated Galaxy interfaces with the Galaxy Labs Engine. Preprint: [doi:10.20944/preprints202508.0199.v1](https://doi.org/10.20944/preprints202508.0199.v1)

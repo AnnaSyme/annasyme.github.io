@@ -5,7 +5,7 @@
   * Most of my recent work is with Galaxy Australia - a webpage (connected to computing resources) where people can analyse data.
 
 <p>
-<a href="#peer-reviewed-publications" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Peer-reviewed publications</a>
+<a href="#publications" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Publications</a>
 <a href="#conferences-seminars-workshops" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Conferences, seminars, workshops</a>
 <a href="#galaxy-training-network-tutorials" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Galaxy Training Network tutorials</a>
 <a href="#galaxy-top-tips-youtube-series" style="display:inline-block; background-color:#3565a5; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; margin:4px 2px; font-size:14px;">Galaxy Top Tips</a>

@@ -10,12 +10,19 @@ body{margin:0;font-family:'Noto Sans',system-ui,sans-serif;background:var(--bg);
 .wrap{max-width:760px;margin:0 auto;padding:16px 14px 60px}
 header{display:flex;align-items:flex-start;justify-content:space-between;gap:10px;text-align:left;padding:6px 0 10px}
 header h1{font-size:19px;margin:0}
+.ttl{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.subt{font-size:12px;color:var(--mut)}
 .topbtns{display:flex;gap:6px;flex-shrink:0;align-items:center}
 .srcwrap{position:relative}
 .topb{font-family:inherit;font-size:11px;padding:4px 9px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--mut);cursor:pointer;text-decoration:none;display:inline-block;line-height:1.4}
 .topb:hover{background:#f4f6fa}
 .srcpop{display:none;position:absolute;right:0;top:28px;background:#fff;border:1px solid var(--line);border-radius:8px;padding:5px;box-shadow:0 4px 14px rgba(0,0,0,.08);z-index:10;min-width:108px}
 .srcpop.show{display:block}
+.aboutpop{left:0;right:auto;min-width:190px;max-width:250px}
+.abouttxt{padding:6px 8px;font-size:12px;color:var(--ink);line-height:1.45}
+.abouttxt a{color:var(--accent);text-decoration:none}
+.abouttxt a:hover{text-decoration:underline}
+.disc{margin-top:8px;color:var(--mut);font-size:11px}
 .srcpop a{display:block;padding:5px 8px;color:var(--ink);text-decoration:none;font-size:13px;border-radius:6px}
 .srcpop a:hover{background:#f4f6fa}
 header p{margin:3px 0 0;color:var(--mut);font-size:13px}
@@ -56,7 +63,7 @@ footer{text-align:center;color:var(--mut);font-size:11px;margin-top:26px}
 footer a{color:var(--mut)}
 </style></head>
 <body><div class="wrap">
-<header id="hdr"><h1>What country is it?</h1><div class="topbtns"><div class="srcwrap"><button class="topb" onclick="document.getElementById('srcPop').classList.toggle('show')">Sources</button><div class="srcpop" id="srcPop"><a href="https://www.plonkit.net" target="_blank" rel="noopener">Plonkit</a><a href="https://geometas.com" target="_blank" rel="noopener">geometas</a></div></div><a class="topb" id="fbBtn" href="mailto:you@example.com?subject=Country%20finder%20feedback" target="_blank" rel="noopener">Feedback</a></div></header>
+<header id="hdr"><div class="ttl"><h1>What country is it?</h1><span class="subt">Clues for GeoGuessr</span></div><div class="topbtns"><div class="srcwrap"><button class="topb" onclick="togglePop('aboutPop')">About</button><div class="srcpop aboutpop" id="aboutPop"><div class="abouttxt">A faceted finder for guessing the country from GeoGuessr or OpenGuessr clues.<br><br>Built by AnnaSyme and Claude.<br><a href="https://github.com/AnnaSyme/AnnaSyme.github.io/tree/main/countryid" target="_blank" rel="noopener">View source on GitHub &#8599;</a><div class="disc">Not affiliated with GeoGuessr or OpenGuessr.</div></div></div></div><div class="srcwrap"><button class="topb" onclick="togglePop('srcPop')">Sources</button><div class="srcpop" id="srcPop"><a href="https://www.plonkit.net" target="_blank" rel="noopener">Plonkit</a><a href="https://geometas.com" target="_blank" rel="noopener">geometas</a></div></div><a class="topb" id="fbBtn" href="mailto:light.train3717@fastmail.com?subject=Country%20finder%20feedback" target="_blank" rel="noopener">Feedback</a></div></header>
 <div id="app"></div>
 
 </div>
@@ -153,5 +160,9 @@ function detail(c){var hh=document.getElementById('hdr');if(hh)hh.style.display=
  app.appendChild(d);
  var ng=el('div','grid');ng.appendChild(navTile('Back','__e:\u2B05\uFE0F',goBack));ng.appendChild(navTile('Restart','__e:\uD83D\uDD04',reset));app.appendChild(ng);
 }
+function closePops(){document.querySelectorAll('.srcpop.show').forEach(function(p){p.classList.remove('show');});}
+function togglePop(id){var t=document.getElementById(id),open=t&&t.classList.contains('show');closePops();if(t&&!open)t.classList.add('show');}
+document.addEventListener('click',function(e){if(!e.target.closest('.srcwrap'))closePops();});
+document.addEventListener('keydown',function(e){if(e.key==='Escape')closePops();});
 reset();
 </script></body></html>

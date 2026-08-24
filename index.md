@@ -34,8 +34,8 @@ document.getElementById('contact-btn').addEventListener('click', function(e) {
 ## Publications
 
 - The Galaxy Community [incl. **Syme AE**]. (2026). Galaxy for accessible, reproducible, and collaborative data analyses: 2026 update. Nucleic Acids Research. [doi:10.1093/nar/gkag469](https://doi.org/10.1093/nar/gkag469)
-- Simpson L, et al. [incl. **Syme AE**]. (2025). The Genomics for Australian Plants (GAP) framework initiative—developing genomic resources for understanding the evolution and conservation of the Australian flora. Australian Systematic Botany 38(3). [doi:10.1071/SB24022](https://doi.org/10.1071/SB24022)
 - Hyde C, **Syme AE**, Batut B, Zierep PF, Mok W, Bacon WA, Price GR. (2026). Community-curated Galaxy interfaces with the Galaxy Labs Engine. GigaScience. [doi:10.1093/gigascience/giag041](https://doi.org/10.1093/gigascience/giag041)
+- Simpson L, et al. [incl. **Syme AE**]. (2025). The Genomics for Australian Plants (GAP) framework initiative—developing genomic resources for understanding the evolution and conservation of the Australian flora. Australian Systematic Botany 38(3). [doi:10.1071/SB24022](https://doi.org/10.1071/SB24022)
 - The Galaxy Community [incl. **Syme AE**]. (2024). The Galaxy platform for accessible, reproducible, and collaborative data analyses: 2024 update. Nucleic Acids Research 52(W1): W83–W94. [doi:10.1093/nar/gkae410](https://doi.org/10.1093/nar/gkae410)
 - Brown T, et al. [incl. **Syme AE**]. (2024). Genome annotation and other post-assembly workflows for the Tree of Life. BioHackrXiv preprint. [doi:10.37044/osf.io/vvadp](https://doi.org/10.37044/osf.io/vvadp)
 - Mu A, et al. [incl. **Syme AE**]. (2023). Integrative omics identifies conserved and pathogen-specific responses of sepsis-causing bacteria. Nature Communications 14: 1530. [doi:10.1038/s41467-023-37200-w](https://doi.org/10.1038/s41467-023-37200-w)
